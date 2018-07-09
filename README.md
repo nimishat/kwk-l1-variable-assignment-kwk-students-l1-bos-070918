@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Assign a local variable.
+1. greeting = "Hello World"
 
 ## Instructions
 
